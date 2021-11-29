@@ -4,7 +4,7 @@
 
 - 💻 Sou uma engenheira da computação e uma cientista de dados
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 🤣
--
+
 
 ###Conecte-se comigo:
 
