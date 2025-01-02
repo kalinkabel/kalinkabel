@@ -7,7 +7,7 @@
 - 💻  "Sou engenheira da computação e atualmente mestranda em Ciências da Computação pela Universidade Federal do Amazonas (UFAM), com foco em linhas de pesquisa em inteligência artificial e visão computacional."  
 
 
-- 📈 "Estou sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades." 🤣
+- 📈 "Estou sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades." 
 
 
 ###Conecte-se comigo:
