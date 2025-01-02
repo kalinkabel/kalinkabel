@@ -1,4 +1,4 @@
-### Lilian Kalinka - [Engenheira da Computação / Cientista de Dados] 👋
+### Lilian Kalinka - [Engenheira da Computação /Especialista em Visão Computacional] 👋
 
 ## Especialista em Visão Computacional com experiência no desenvolvimento de algoritmos inovadores para análise de imagens e aprendizado de máquina. Apaixonada por transformar pixels em soluções inteligentes e contribuir para o avanço da inteligência artificial. Vamos explorar juntos como a tecnologia pode ver o mundo!
 
