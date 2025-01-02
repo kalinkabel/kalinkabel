@@ -1,9 +1,13 @@
 ### Lilian Kalinka - [Engenheira da Computação / Cientista de Dados] 👋
 
-## Sou uma engenheira da computação buscando conhecimentos em ciencias de dados para encontrar soluções baseadas em dados que impactam os negócios e a sociedade como um todo!
+## Especialista em Visão Computacional com experiência no desenvolvimento de algoritmos inovadores para análise de imagens e aprendizado de máquina. Apaixonada por transformar pixels em soluções inteligentes e contribuir para o avanço da inteligência artificial. Vamos explorar juntos como a tecnologia pode ver o mundo!
 
-- 💻 Sou uma engenheira da computação e uma cientista de dados
-- 📈 Estou constantemente aprendendo e melhorando minhas habilidades 🤣
+
+
+- 💻  "Sou engenheira da computação e atualmente mestranda em Ciências da Computação pela Universidade Federal do Amazonas (UFAM), com foco em linhas de pesquisa em inteligência artificial e visão computacional."  
+
+
+- 📈 "Estou sempre em busca de aprendizado contínuo e aprimoramento das minhas habilidades." 🤣
 
 
 ###Conecte-se comigo:
